@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EH</string>
+    <string name="altitud_en_metros">Altitud (m)</string>
+    <string name="velocidad_en_km_h">Velocidad (km/h)</string>
+    <string name="location_permission">Se necesita el GPS</string>
+    <string name="permission_denied_explanation">Permiso para GPS</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="medicion_m">Medicion (m)</string>
+</resources>
